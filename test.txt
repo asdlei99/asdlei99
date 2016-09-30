@@ -1,0 +1,16 @@
+4EDBDDE0AA48
+
+38F1AEC9D961
+
+cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=on
+
+rtmp://172.23.1.17/live/test
+
+http://www.cutv.com/demo/live_test.swf
+
+
+encoder->info.encode(encoder->context.data, frame, &pkt,&received);
+output->info.encoded_packet(output->context.data, &out);
+
+sudo apt-get install aptitude
+sudo aptitude --purge reinstall linux-sound-base alsa-base alsa-utils linux-image-$(uname -r) linux-image-extra-$(uname -r) libasound2
