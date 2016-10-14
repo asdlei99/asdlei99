@@ -12,3 +12,7 @@ http://www.jianshu.com/p/ca32da209fd3
 
 ### obs project
 https://launchpad.net/~obsproject/+archive/ubuntu/obs-studio
+
+
+### obs_studio source  analyze
+http://blog.csdn.net/jbl5501328/article/details/52447001
